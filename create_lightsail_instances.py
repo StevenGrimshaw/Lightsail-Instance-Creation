@@ -1,10 +1,11 @@
 import boto3, uuid
+from decouple import config
 
 client = boto3.client(
     'lightsail', 
     region_name='us-east-2',
-    aws_access_key_id='AKIATDOVHAF4KWTJ4YOX', 
-    aws_secret_access_key='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')
+    aws_access_key_id=config('access_key',default=''), 
+    aws_secret_access_key=config('secret_key',default=''))
 
 NUM_INSTANCES = 0
 while True:
