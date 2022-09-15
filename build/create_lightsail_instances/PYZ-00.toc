@@ -194,6 +194,8 @@
    'c:\\python39\\lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
   ('stringprep', 'c:\\python39\\lib\\stringprep.py', 'PYMODULE'),
+  ('_py_abc', 'c:\\python39\\lib\\_py_abc.py', 'PYMODULE'),
+  ('tracemalloc', 'c:\\python39\\lib\\tracemalloc.py', 'PYMODULE'),
   ('getpass', 'c:\\python39\\lib\\getpass.py', 'PYMODULE'),
   ('nturl2path', 'c:\\python39\\lib\\nturl2path.py', 'PYMODULE'),
   ('ftplib', 'c:\\python39\\lib\\ftplib.py', 'PYMODULE'),
@@ -201,8 +203,6 @@
   ('shlex', 'c:\\python39\\lib\\shlex.py', 'PYMODULE'),
   ('mimetypes', 'c:\\python39\\lib\\mimetypes.py', 'PYMODULE'),
   ('http.cookiejar', 'c:\\python39\\lib\\http\\cookiejar.py', 'PYMODULE'),
-  ('_py_abc', 'c:\\python39\\lib\\_py_abc.py', 'PYMODULE'),
-  ('tracemalloc', 'c:\\python39\\lib\\tracemalloc.py', 'PYMODULE'),
   ('decouple',
    'C:\\Users\\Steven '
    'Grimshaw\\AppData\\Roaming\\Python\\Python39\\site-packages\\decouple.py',
