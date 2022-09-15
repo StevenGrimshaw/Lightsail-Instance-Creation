@@ -1,0 +1,61 @@
+('C:\\Users\\Steven Grimshaw\\Desktop\\CSCE412 '
+ 'PA1\\build\\create_lightsail_instances\\create_lightsail_instances.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Steven Grimshaw\\Desktop\\CSCE412 '
+   'PA1\\build\\create_lightsail_instances\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Steven Grimshaw\\Desktop\\CSCE412 '
+   'PA1\\build\\create_lightsail_instances\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Steven Grimshaw\\Desktop\\CSCE412 '
+   'PA1\\build\\create_lightsail_instances\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Steven Grimshaw\\Desktop\\CSCE412 '
+   'PA1\\build\\create_lightsail_instances\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Steven Grimshaw\\Desktop\\CSCE412 '
+   'PA1\\build\\create_lightsail_instances\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Steven '
+   'Grimshaw\\AppData\\Roaming\\Python\\Python39\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\Steven '
+   'Grimshaw\\AppData\\Roaming\\Python\\Python39\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Steven '
+   'Grimshaw\\AppData\\Roaming\\Python\\Python39\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Steven '
+   'Grimshaw\\AppData\\Roaming\\Python\\Python39\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Steven '
+   'Grimshaw\\AppData\\Roaming\\Python\\Python39\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('create_lightsail_instances',
+   'C:\\Users\\Steven Grimshaw\\Desktop\\CSCE412 '
+   'PA1\\create_lightsail_instances.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
